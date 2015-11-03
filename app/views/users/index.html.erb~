@@ -5,8 +5,3 @@
   <%= render @users %>
 </ul>
 <%= will_paginate %>
-
-<div class="container">
-<div class="row"> Hi git </div>
-<div class="row"> Modified </div>
-</div>
